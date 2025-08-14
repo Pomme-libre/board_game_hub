@@ -1,0 +1,20 @@
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.out
+*.exe
+build/
+dist/
+
+# エディタなど
+.vscode/
+.idea/
+.DS_Store
+
+# Python/Rust用
+__pycache__/
+*.pyc
+target/
